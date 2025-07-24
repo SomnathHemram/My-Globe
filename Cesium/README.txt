@@ -1,0 +1,1 @@
+This is the Cesium directory. Add real data here.
